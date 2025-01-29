@@ -1,5 +1,5 @@
 from pytubefix import YouTube
-from sys import argv
+
 
 link = input("Enter the link of the video: ")
 yt = YouTube(link, use_oauth=True, allow_oauth_cache=True)
