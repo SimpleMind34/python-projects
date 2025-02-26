@@ -2,7 +2,7 @@
 
 ## Intro:
 
-I just want to say that I am no expert in documenting nor in networking nor in python, but it's more about interest and curiosity, and since I am a CS student, I want to highlight that this project there is a lot of concepts that are taught in the university that this project concretizes, for instances:
+I just want to say that I am no expert in documenting nor in networking nor in python, but it's more about interest and curiosity, and since I am a CS student, I want to highlight that in this project there are a lot of concepts that are taught in the university that it concretizes, for instances:
 
 - Networking concepts like ports and sockets and IP addresses and protocols like TCP.
 - Operating system concepts like multithreading.
