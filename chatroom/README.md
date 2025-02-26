@@ -95,5 +95,5 @@ But to be clear:
   - **arguments**: it's simply the target arguments and in our case it's the client variable (or socket object) that we created earlier.
   - It also can have other arguments but those are for you to figure out.
  ## Outro:
-In the ***Intro** I mentioned what this documentation is for, and I hope that I have satisfied those points and goals, play around with the code and explore various things to add or ameliorate and perhaps remove. Catch up later, and happy coding !)
+In the ***Intro*** I mentioned what this documentation is for, and I hope that I have satisfied those points and goals, play around with the code and explore various things to add or ameliorate and perhaps remove. Catch up later, and happy coding !)
   
